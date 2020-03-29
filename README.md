@@ -1,4 +1,13 @@
-# wtf-gulp-starter
+# AeroprAPP
+
+PWA to brew a coffee with the AeroPress.
+
+App is genereting a recipe for you, to use during the brewing.
+
+App inspired by James Hoffmann and his Coffee Brewing Dices.
+
+
+# how to run it: 
 
 `npm install -g gulp-cli`
 
